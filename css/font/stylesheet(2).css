@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Puradak Gentle Gothic';
+    src: url('PuradakGentleGothicR.eot');
+    src: url('PuradakGentleGothicR.eot?#iefix') format('embedded-opentype'),
+        url('PuradakGentleGothicR.woff2') format('woff2'),
+        url('PuradakGentleGothicR.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
